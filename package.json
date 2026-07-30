@@ -1,0 +1,14 @@
+{
+  "name": "agent-skills",
+  "version": "1.0.0",
+  "description": "A collection of agent skills and general-purpose extensions.",
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["extensions/*.ts"],
+    "skills": ["skills/*"]
+  },
+  "dependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "typebox": "*"
+  }
+}
