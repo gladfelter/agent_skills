@@ -56,6 +56,8 @@ While many are looking at "multi-agent" architectures for complex tasks, I’ve 
 
 **For a deeper dive into the specific geometric self-corrections and technical reasoning, check out the full technical paper here: [agentic-openscad.md](./agentic-openscad.md)**
 
+**You can also view the full raw session prompts and iteration history in the [session logs README](../../examples/openscad/sessions/README.md).**
+
 The future of AI-driven manufacturing isn't just better models; it's better loops.
 
 **Check out the repo here: [https://github.com/gladfelter/agent_skills](https://github.com/gladfelter/agent_skills)**
