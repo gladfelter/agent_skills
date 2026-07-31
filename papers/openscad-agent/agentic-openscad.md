@@ -63,8 +63,8 @@ Once the basic feedback loop was proven, we pushed it further. Could the agent h
 
 The agent was asked to design a Minecraft Creeper, but with a twist: "Sub-pixel surface detail." It wrote an OpenSCAD script that used a deterministic pseudo-random function to generate thousands of small cubes, each slightly offset to create a "noisy" or "glitchy" pixelated texture.
 
-![High-fidelity pixelated Creeper in OpenSCAD](images/Screenshot%202026-07-30%20193629.png)
-*Above: The "High-Fidelity Pixelated Edition" Creeper. Every surface is composed of jittered voxels.*
+![High-fidelity pixelated Creeper in OpenSCAD](images/Screenshot%202026-07-30%20193354.png)
+*Above: The Gemini 3 "Sub-Pixel Detail" Creeper. Every surface is composed of jittered voxels.*
 
 This demonstrates that the agent can reason about complex algorithmic geometry, not just simple primitives. Using **Gemini 3 Flash preview**, the agent used loops and functions to distribute detail across the model while maintaining the recognizable silhouette.
 
